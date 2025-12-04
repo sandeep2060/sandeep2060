@@ -7,8 +7,8 @@ I'm a passionate developer interested in web development and open-source contrib
 - 🌱 Learning: Full-stack development, DevOps
 - 👯 Looking to collaborate on: Open-source projects
 - 💬 Ask me about: HTML, CSS, JavaScript, React
-- 📫 Reach me: [Add your email or social links]
-- ⚡ Fun fact: [Add something interesting about yourself]
+- 📫 Reach me: Sandeepgaire8@gmail.com
+
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
