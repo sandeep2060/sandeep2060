@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandeep!
 
-<!--
-**sandeep2060/sandeep2060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I'm currently working on Web-Developer.
+- 🌱 I'm currently learning React
+- 💬 Ask me about...
+- 📫 How to reach me: sandeepgaire8@gmail.com
+- ⚡ Fun fact:...
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, Java, etc.
+- **Frameworks:** React, Node.js, Django, etc.
+- **Tools:** Git, Docker, AWS, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 📌 Pinned Repositories
