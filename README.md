@@ -25,7 +25,7 @@ I'm a passionate developer interested in web development and open-source contrib
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep2060&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sandeepgaire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sandeepgaire]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 ###
 <h2 align="left">Contributions: </h2>
